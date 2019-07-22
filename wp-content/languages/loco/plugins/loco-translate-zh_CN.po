@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Loco Translate 2.3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-31 14:05+0000\n"
-"PO-Revision-Date: 2019-07-22 04:19+0000\n"
+"PO-Revision-Date: 2019-07-22 09:53+0000\n"
 "Last-Translator: admin <chenpeiqing.1393599253@live.com>\n"
 "Language-Team: 简体中文\n"
 "Language: zh_CN\n"
@@ -511,7 +511,7 @@ msgstr ""
 #: src/admin/file/EditController.php:166
 msgctxt "Editor"
 msgid "Sync"
-msgstr ""
+msgstr "同步"
 
 #. Button that toggles between "code" and regular text editing modes
 #: src/admin/file/EditController.php:178

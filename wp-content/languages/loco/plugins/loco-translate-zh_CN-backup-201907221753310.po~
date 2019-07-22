@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Loco Translate 2.3.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-31 14:05+0000\n"
-"PO-Revision-Date: 2019-07-22 04:00+0000\n"
+"PO-Revision-Date: 2019-07-22 04:19+0000\n"
 "Last-Translator: admin <chenpeiqing.1393599253@live.com>\n"
 "Language-Team: 简体中文\n"
 "Language: zh_CN\n"
@@ -1625,7 +1625,7 @@ msgstr ""
 
 #: tpl/admin/errors/file-isdir.php:14
 msgid "This page was expecting a file, but the path is actually a directory"
-msgstr ""
+msgstr "这个页面需要一个文件，但路径实际上是一个目录"
 
 #: src/hooks/AdminHooks.php:68
 msgid "This plugin doesn't collect any data from public website visitors."
